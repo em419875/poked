@@ -1,0 +1,9 @@
+body{
+background-image:url("https://estag.fimagenes.com/imagenesred/2029139_1.jpg?1");
+
+}
+@media only screen and (max-width: 480px) {
+img {
+width: 100%;
+}
+}
